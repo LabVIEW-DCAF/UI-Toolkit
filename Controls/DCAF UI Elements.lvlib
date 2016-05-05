@@ -19,6 +19,7 @@
 		<Item Name="Move All Left.ctl" Type="VI" URL="../Move All Left.ctl"/>
 		<Item Name="Move All Right.ctl" Type="VI" URL="../Move All Right.ctl"/>
 		<Item Name="Top Level Tab Control.ctl" Type="VI" URL="../Top Level Tab Control.ctl"/>
+		<Item Name="Listbox.ctl" Type="VI" URL="../Listbox.ctl"/>
 	</Item>
 	<Item Name="Groupings" Type="Folder">
 		<Item Name="Import and Export Controls.vi" Type="VI" URL="../../Groupings/Import and Export Controls.vi"/>
@@ -27,5 +28,6 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Align Front Panel.vi" Type="VI" URL="../../Utilities/Align Front Panel.vi"/>
+		<Item Name="Align Tab Control.vi" Type="VI" URL="../../Utilities/Align Tab Control.vi"/>
 	</Item>
 </Library>
