@@ -28,6 +28,5 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Align Front Panel.vi" Type="VI" URL="../../Utilities/Align Front Panel.vi"/>
-		<Item Name="Align Tab Control.vi" Type="VI" URL="../../Utilities/Align Tab Control.vi"/>
 	</Item>
 </Library>

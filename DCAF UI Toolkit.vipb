@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-04 17:10:22" Modified_Date="2016-05-05 10:12:00" Creator="Tanner Blair" Comments="" ID="8c3355576ccc326376c0a4352e6a2758">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-04 17:10:22" Modified_Date="2016-05-05 10:45:12" Creator="Tanner Blair" Comments="" ID="8d2f833a912ce269d2649cc8a924b265">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_DCAF_UI_Toolkit</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -211,21 +211,7 @@
         <Path>Utilities\Align Front Panel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Align Tab Control.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Utilities\Align Tab Control.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>B557D3AFD9A45468C2BEB695602D2E3E</GUID>
+      <GUID>7E31AF108B38496BF55F142AAF21FEF0</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -484,7 +470,7 @@
         <Path>Controls\Listbox.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>08DFE64463280CB6DDB700CE753FC9E3</GUID>
+      <GUID>554B2615EBF500DAA49E9FAA7BDCCC57</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
