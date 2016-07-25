@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-04 17:10:22" Modified_Date="2016-07-25 14:21:50" Creator="Tanner Blair" Comments="" ID="297a747f16f42647effd9a255d761862">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-04 17:10:22" Modified_Date="2016-07-25 17:07:15" Creator="Tanner Blair" Comments="" ID="5e95195a54b745f3395d72048d55dd5c">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_ui_toolkit</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
@@ -38,7 +38,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;vi.lib&gt;\NI\DCAF UI Toolkit</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -211,7 +211,7 @@
         <Path>Utilities\Align Front Panel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D5D35EA434E52A2FF2E07A20AC9498F</GUID>
+      <GUID>B84771C63E95C86B5B2C471808FEC36A</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -470,7 +470,7 @@
         <Path>Controls\Listbox.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7A067E032AB93E976D7B79992F1F67E2</GUID>
+      <GUID>563C47C49D457D46C384957E59AB5EE9</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
